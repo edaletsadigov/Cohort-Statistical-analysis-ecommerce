@@ -4,7 +4,7 @@ Cohort, RFM segmentation, and statistical analysis of a 12-month e-commerce orde
 
 ## 📊 Dashboard
 
-![Sales Performance Dashboard](charts/00_dashboard.png)
+![Sales Performance Dashboard](Charts/00_dashboard.png)
 
 *(Interactive in the notebook — region/category slicers via `ipywidgets`; static snapshot above shows the unfiltered view.)*
 
