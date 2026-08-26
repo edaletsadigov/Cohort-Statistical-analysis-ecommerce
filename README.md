@@ -26,7 +26,7 @@ Cohort, RFM segmentation, and statistical analysis of a 12-month e-commerce orde
 5. **Payment method correlates with loyalty** (Cramér's V = 0.29, p < 0.001); geography and gender do not.
 6. **Revenue is driven more by order value than order frequency** (AOV–revenue ρ = 0.94 vs. order count–revenue ρ = 0.60).
 
-Full methodology, hypothesis tests, and business recommendations: see the Final Summary section in [`cohort_analiz_ədalət_sadıqov.ipynb`](cohort_analiz_ədalət_sadıqov.ipynb).
+Full methodology, hypothesis tests, and business recommendations: see the Final Summary section in [`cohort_analiz_ədalət_sadıqov.ipynb`](cohort analiz_ədalət_sadıqov.ipynb).
 
 ## 🛠️ Stack
 
